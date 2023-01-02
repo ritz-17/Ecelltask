@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904559999124",
+    "project_id": "ecell-task-1f2f2",
+    "storage_bucket": "ecell-task-1f2f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904559999124:android:d2ba35ab6b87952f9fdc81",
+        "android_client_info": {
+          "package_name": "com.example.ecelltask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904559999124-9g2qagv131v7hi1fmstde0sp24iggnh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaNCKbiaTH_9Hs1oiXL4KD3ADAUazHBao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904559999124-9g2qagv131v7hi1fmstde0sp24iggnh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

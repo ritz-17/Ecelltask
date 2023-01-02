@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ecelltask</string>
+    <string name="dont_have_an_account_sign_in">dont have an account sign in</string>
+    <string name="login">login</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="loginn">loginn</string>
+    <string name="signed">signed</string>
+    <string name="already_have_an_account">already have an account</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="welcome">WELCOME</string>
+    <string name="logout">Logout</string>
+</resources>
